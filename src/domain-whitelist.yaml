@@ -1,0 +1,9 @@
+---
+# Domain whitelist
+domain:
+    - 'example.invalid'
+    - 'example.invalid'
+    - 'example.invalid'
+action: approve
+action_reason: Domain whitelisted
+...
