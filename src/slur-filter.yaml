@@ -1,0 +1,21 @@
+---
+body+title (regex):
+    - fucktard
+    - nigg(a|er)s?
+    - fag(got)?s?
+    - pa?edo(phil(ia|e))?s?
+    - "autis.*"
+    - kill yourself
+    - idiot
+    - cancer
+    - sick
+    - dickgirl
+    - cuntboy
+    - trann(y|ies)
+    - shemales?
+    - retards?
+    - whores?
+    - gas
+action: report
+action_reason: "Text matches {{match}}"
+...
