@@ -1,0 +1,2 @@
+# AMConfigs
+Configs for Automoderator
