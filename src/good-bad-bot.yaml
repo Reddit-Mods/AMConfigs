@@ -1,0 +1,8 @@
+---
+# From: u/bobcobble @ https://redd.it/74aisr
+# remove good|bad bot spam
+type: comment
+body (regex): '(good|bad) bot'
+action: remove
+action_reason: "Removed {{match}} spam."
+...
