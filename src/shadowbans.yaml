@@ -1,0 +1,9 @@
+---
+# Shadow-bans
+author:
+    - '!invalid'
+    - '!invalid'
+    - '!invalid'
+action: remove
+action_reason: Sub-specific shadow-ban
+...
