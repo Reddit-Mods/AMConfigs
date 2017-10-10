@@ -1,0 +1,9 @@
+---
+# Domain blacklist
+domain:
+    - 'example.invalid'
+    - 'example.invalid'
+    - 'example.invalid'
+action: remove
+action_reason: Domain blacklisted
+...
